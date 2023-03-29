@@ -1,0 +1,16 @@
+This is a prompt that passes GPTZERO detection :
+    - The first two line are the prompt and the paragraph after is an exemple 
+
+"Please rewrite the following paragraph using the following instructions: Replace all adjectives with synonyms. Change the sentence structure to be more complex. Use passive voice instead of active voice. Replace all instances of "is" with a more descriptive verb. Add at least one metaphor or analogy." 
+
+My interest in the field of The Materials Science and Engineering (MSE) has been steadily growing over the years, and I am thrilled to take this next step in my academic and professional journey. With my current background in the Physique of Polymer, I have acquired valuable knowledge and skills in the fundamental principles of polymer science. I am eager to further build upon this foundation by exploring the interdisciplinary field of Materials Science, which I believe will equip me with essential competencies to develop innovative technologies across a range of industrial sectors. My interest lies particularly in the field of enterprises and industries, and I hope to apply the knowledge and skills I gain from this program towards making significant contributions in this field.
+
+
+Results : 
+
+Over the years, my fascination for the domain of Materials Science and Engineering (MSE) has been steadily intensifying, and I am elated to embark on the next step of my academic and professional journey. Having gained valuable knowledge and skills in the basic principles of polymer science through my current background in the Physics of Polymer, I am enthusiastic about further strengthening this foundation by exploring the interdisciplinary field of Materials Science. I believe that this exploration will endow me with vital competencies to devise pioneering technologies for a range of industrial sectors. My interests specifically center around enterprises and industries, and I aim to utilize the knowledge and skills acquired from this program to make notable contributions in this field, much like how a blacksmith hammers away at raw materials to forge them into something of value.
+
+
+After testing it on https://gptzero.me/ we got :
+
+Your text is likely to be written entirely by a human
